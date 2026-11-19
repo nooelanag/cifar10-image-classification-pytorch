@@ -1,0 +1,8 @@
+.ipynb_checkpoints/
+__pycache__/
+.DS_Store
+data/
+datasets/
+cifar-10-batches-py/
+*.pkl
+*.pth

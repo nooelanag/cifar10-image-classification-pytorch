@@ -1,6 +1,6 @@
 # CIFAR-10 Image Classification with PyTorch
 
-Lab session of *Applications of Speech, Audio, Image and Video Processing*
+Lab session of *Speech, Audio, Image and Video Processing Applications*
 (Master's in Telecommunication Engineering, UC3M).
 
 ## Contents
